@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/30 16:39:20.000.840,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/01 13:11:12.000.265,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/01 13:11:25.000.105,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/20 22:35:21.734,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/20 22:50:17.326,C:\Users\ACER\Desktop\Programa_SubistiruirPalavras\uFrmPrincipal.dfm=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/09/20 22:50:17.326,C:\Users\ACER\Desktop\Programa_SubistiruirPalavras\uFrmPrincipal.pas=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/20 22:50:38.961,C:\Users\ACER\Desktop\Programa_SubistiruirPalavras\Projeto_Viasoft_Exercicio_1.dproj=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/09/20 22:53:34.488,=C:\Users\ACER\Desktop\Programa_SubistiruirPalavras\Unit1.pas</Transaction>
+    <Transaction>2021/09/20 22:55:05.297,C:\Users\ACER\Desktop\Programa_SubistiruirPalavras\uSubstituir.pas=C:\Users\ACER\Desktop\Programa_SubistiruirPalavras\Unit1.pas</Transaction>
+    <Transaction>2021/09/20 22:55:24.275,=C:\Users\ACER\Desktop\Programa_SubistiruirPalavras\Unit1.pas</Transaction>
+    <Transaction>2021/09/20 22:55:43.455,C:\Users\ACER\Desktop\Programa_SubistiruirPalavras\InterfaceSubstituir.pas=C:\Users\ACER\Desktop\Programa_SubistiruirPalavras\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
